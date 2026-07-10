@@ -2,13 +2,14 @@
 XingDaoMeng星岛梦机场官网地址</br>
 最新地址01：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
 官方地址：[shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
-官方地址：[https://vip.xingdaomeng.com](https://vip.xingdaomeng.com/#/?code=1snzCgTe)</br>
+官方地址：[vip.xingdaomeng.com](https://vip.xingdaomeng.com/#/?code=1snzCgTe)</br>
 ## 邀请码
-此邀请码注册，可用优惠码下单
+`此邀请码注册，可用优惠码下单`
 ```bash
 1snzCgTe
 ```
 ## 优惠码
+`9折`
 ```bash
 nmw888
 ```
