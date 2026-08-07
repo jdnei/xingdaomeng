@@ -14,7 +14,8 @@ XingDaoMeng星岛梦机场官网地址</br>
 
 ![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/2026-08-07%2010.39.36.jpg?raw=true)  
 
--—-
+---
+
 ## 邀请码
 `此邀请码注册，可用优惠码下单`
 ```bash
