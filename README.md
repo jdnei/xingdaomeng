@@ -3,12 +3,18 @@ XingDaoMeng星岛梦机场官网地址</br>
 最新地址01：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
 官方地址：[shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
 官方地址：[vip.xingdaomeng.com](https://vip.xingdaomeng.com/#/?code=1snzCgTe)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
 `此邀请码注册，可用优惠码下单`
 ```bash
 1snzCgTe
 ```
-## 优惠码
+## 优惠码/折扣码
 `9折`
 ```bash
 nmw888
