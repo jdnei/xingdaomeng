@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальные адреса VPN-сервиса XingDaoMeng (обновлено 9 августа 2026)
+# Официальные адреса VPN-сервиса XingDaoMeng (обновлено 10 августа 2026)
 Адрес официального сайта XingDaoMeng</br>
 Последний адрес 01: [wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
 Официальный адрес: [shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
