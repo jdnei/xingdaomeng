@@ -3,9 +3,9 @@
 
 # XingDaoMeng星岛梦机场官方地址(2026年8月11日更新)
 XingDaoMeng星岛梦机场官网地址</br>
-最新地址01：[wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
-官方地址：[shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
-官方地址：[vip.xingdaomeng.com](https://vip.xingdaomeng.com/#/?code=1snzCgTe)</br>
+最新地址01：[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
+最新地址02：[wuyou202001.xdmvipaff.cc](https://to.iix.im/xdm02)</br>
+官方地址：[vip.xingdaomeng.com](https://to.iix.im/xdm01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
