@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# XingDaoMeng星岛梦机场官方地址(2026年8月27日更新)
+# XingDaoMeng星岛梦机场官方地址(2026年8月28日更新)
 XingDaoMeng星岛梦机场官网地址</br>
 最新地址01：[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
 最新地址02：[wuyou202001.xdmvipaff.cc](https://to.iix.im/xdm02)</br>
