@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس‌های رسمی سرویس VPN XingDaoMeng (به‌روزرسانی 2 سپتامبر 2026)
+# آدرس‌های رسمی سرویس VPN XingDaoMeng (به‌روزرسانی 3 سپتامبر 2026)
 آدرس وب‌سایت رسمی XingDaoMeng</br>
 جدیدترین آدرس 01: [wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
 آدرس رسمی: [shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
