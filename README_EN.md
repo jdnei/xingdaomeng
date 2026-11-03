@@ -1,62 +1,100 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# XingDaoMeng Official VPN Service Addresses (Updated November 2, 2026)
-XingDaoMeng Official Website Addresses</br>
-Latest Address 01: [wuyou202001.xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=1snzCgTe)</br>
-Official Address: [shareslsf.xingdaoaqatt.homes](https://shareslsf.xingdaoaqatt.homes/#/?code=1snzCgTe)</br>
-Official Address: [vip.xingdaomeng.com](https://vip.xingdaomeng.com/#/?code=1snzCgTe)</br>
+# XingDaoMeng VPN Official Website (Updated November 2, 2026)
 
-Recommended VPN Services and Node Sharing for 2026: [https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
-## Telegram VPN Service Benefits Community #AD
-[VPN Service Giveaway Group](https://331024.de/archives/choujiang)｜[VPN Service Chat Group](https://331024.de/archives/choujiang)｜[VPN Service Trial Group](https://331024.de/archives/choujiang)</br>
+XingDaoMeng VPN Official Website<br>
+Latest Address 01: [awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)<br>
+Latest Address 02: [wuyou202001.xdmvipaff.cc](https://to.iix.im/xdm02)<br>
+Official Website: [vip.xingdaomeng.com](https://to.iix.im/xdm01)<br>
+
+2026 Best VPN Recommendations and Proxy Node Sharing: [https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)<br>
+
+## Telegram VPN Community #AD
+
+[VPN Giveaway Group](https://331024.de/archives/choujiang) | [VPN Chat Group](https://331024.de/archives/choujiang) | [VPN Trial Group](https://331024.de/archives/choujiang)<br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## Latest Announcement
+
 ---
 
-![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/2026-08-07%2010.39.36.jpg?raw=true)  
+![XingDaoMeng Official Announcement](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/2026-08-07%2010.39.36.jpg?raw=true)
 
 ---
 
 ## Invitation Code
-`Register with this invitation code and use a discount code when placing an order`
+
+`Register using this invitation code to become eligible for orders with the discount code.`
+
 ```bash
 1snzCgTe
 ```
-## Promo Code/Discount Code
-`10% off`
+
+## Coupon Code / Discount Code
+
+`10% OFF`
+
 ```bash
 nmw888
 ```
-![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/QQ20260710-090601.jpg?raw=ture) 
+
+![XingDaoMeng Discount Information](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/QQ20260710-090601.jpg?raw=true)
+
 ## Introduction
-XingDaoMeng is a cost-effective premium VPN service specializing in streaming media unlocking and internet access. It uses high-end relay connections and IPLC dedicated lines, focusing on low latency and high stability. Its plans are flexible and have no device limits, while all nodes support services such as Netflix, Disney+, and ChatGPT, making it a practical choice for streaming and everyday work.
+
+XingDaoMeng VPN is an affordable premium proxy service focused on streaming platform unblocking.
+
+It combines high-quality transit connections with IPLC dedicated lines, emphasizing low latency and connection stability.
+
+The service offers flexible subscription plans without device limits. Its nodes support access to Netflix, Disney+, ChatGPT, and other popular services, making it suitable for streaming entertainment and everyday remote work.
+
 ## Advantages
-Based on the latest VLESS protocol, it uses enterprise-grade IEPL private network dedicated lines with optimization for all three major Chinese carriers and supports intelligent load balancing, automatically matching the optimal route according to the user's local network.</br>
-All routes support access to major streaming platforms, including Netflix, Disney+, HBO series, YouTube, and more. Speeds remain stable without throttling during evening peak hours and support smooth 4K playback.</br>
-Supports access to AI tools such as ChatGPT and Gemini, while also being compatible with TikTok international short-video and live-streaming environments.</br>
-Extensive node coverage includes Hong Kong, Taiwan, Japan, Singapore, the United States, South Korea, Malaysia, Thailand, Indonesia, the Philippines, Vietnam, the United Kingdom, Germany, France, Turkey, Brazil, Argentina, and many other regions, with 80+ nodes available.</br>
-Supports multiple platforms including iOS, Android, Windows, and routers, with simultaneous use on multiple devices.</br>
-Compatible with various clients such as Shadowrocket, Clash, v2rayN, v2rayNG, Surge, Quantumult X, Stash, and more.</br>
-Supports enterprise-grade customized routes to meet different usage requirements.</br>
-Provides live customer support to help new users get started quickly.</br>
-Self-developed control panel with simple and efficient configuration for a smooth user experience.</br>
-## Plans
-| Plan Name | Price | Billing Cycle/Type | Monthly Traffic/Total | Traffic Policy | Network Bandwidth | Unlocking Capability | Concurrent Devices | Node Coverage | Other Highlights/Rules |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Starter Mini Plan** | ¥96.00 | /year | 60GB/month | All nodes x1 rate, no throttling during evening peak hours, automatically refreshed every 30 days | Full IPLC dedicated lines with low latency; peak speed per node up to 2.5Gbps | Native IP, supports Netflix / Disney+ / ChatGPT / TikTok and more | No limit on the number of clients used simultaneously | Hong Kong×20, Taiwan×10, Japan×10, Singapore×10, United States×10, South Korea×2, Argentina×2, Malaysia, Vietnam, Philippines, Thailand, India, Germany, France, United Kingdom, etc. | Suitable for light-traffic/new users, annual payment works out to about ¥8/month; efficient customer support |
-| **Extra 150G** | ¥25.00 | /month | 150GB/month | All nodes x1, no speed reduction during evening peak hours, automatically refreshed every 30 days | Full IEPL dedicated lines with low latency; peak speed per node up to 2.5Gbps | Native IP, supports Netflix / Disney+ / ChatGPT / TikTok | Unlimited simultaneous use on multiple devices (computer/mobile/router) | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent routing automatically selects the optimal route; 20% off annual payment｜30% off two-year payment｜40% off three-year payment |
-| **Advanced 300G** | ¥50.00 | /month | 300GB/month | All nodes x1, no speed reduction during evening peak hours, automatically refreshed every 30 days | Full IEPL dedicated lines with low latency; peak speed per node up to 2.5Gbps | Native IP, supports Netflix / Disney+ / ChatGPT / TikTok | Unlimited simultaneous use on multiple devices (computer/mobile/router) | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent routing automatically selects the optimal route; 20% off annual payment｜30% off two-year payment｜40% off three-year payment |
-| **Flash 500G** | ¥70.00 | /month | 500GB/month | All nodes x1, no speed reduction during evening peak hours, automatically refreshed every 30 days | Full IEPL dedicated lines with low latency; peak speed per node up to 2.5Gbps | Native IP, supports Netflix / Disney+ / ChatGPT / TikTok | Unlimited simultaneous use on multiple devices (computer/mobile/router) | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent routing automatically selects the optimal route; 20% off annual payment｜30% off two-year payment｜40% off three-year payment |
-| **Flagship 1T** | ¥130.00 | /month | 1.0TB/month | 1000G/month high-speed traffic, all nodes x1, no speed reduction during evening peak hours, automatically refreshed every 30 days | Full IEPL dedicated lines with low latency; peak speed per node up to 2.5Gbps | Native IP, supports Netflix / Disney+ / ChatGPT / TikTok | Unlimited simultaneous use on multiple devices (computer/mobile/router) | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent routing automatically selects the optimal route; 20% off annual payment｜30% off two-year payment｜40% off three-year payment |
-| **Permanent No-Expiry 100** | ¥100.00 | /one-time | 100GB | All nodes x1 rate, no throttling during evening peak hours, no automatic reset after purchase | Full IPLC dedicated lines, providing speeds up to 2.5Gbps | Native IP, unlocks major streaming platforms, ChatGPT, TikTok | No limit on the number of clients used simultaneously | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Manual reset supported (cost is 90% of the original price, i.e. ¥90); annual-payment and other discount rules do not apply |
-| **Permanent No-Expiry 300** | ¥300.00 | /one-time | 300GB | All nodes x1 rate, no throttling during evening peak hours, no automatic reset after purchase | Full IPLC dedicated lines, providing speeds up to 2.5Gbps | Native IP, unlocks major streaming platforms, ChatGPT, TikTok | No limit on the number of clients used simultaneously | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Manual reset supported (cost is 90% of the original price, i.e. ¥270); annual-payment and other discount rules do not apply |
-| **Permanent No-Expiry 1TB** | ¥600.00 | /one-time | 1.0TB | All nodes x1 rate, no throttling during evening peak hours, no automatic reset after purchase | Full IPLC dedicated lines, providing speeds up to 2.5Gbps | Native IP, unlocks major streaming platforms, ChatGPT, TikTok | No limit on the number of clients used simultaneously | Hong Kong×20, Taiwan×5, Japan×10, Singapore×10, United States×10, Malaysia×2, United Kingdom, France, Germany, Turkey, Thailand, Brazil, etc. | Manual reset supported (cost is 90% of the original price, i.e. ¥540); annual-payment and other discount rules do not apply |
-| **Custom Plan** | ¥680.00 | /month | 500GB | Exclusive customized nodes deployed separately according to requirements (traffic/bandwidth/routes can be customized) | Full IPLC dedicated-line access with dedicated bandwidth allocation, ultra-low latency and high stability | Exclusive native IP designed for e-commerce, live streaming, and enterprise applications | No limit on the number of clients, with simultaneous multi-device use | Exclusive customization with support for Hong Kong, Japan, United States, Singapore, etc. | Suitable for demanding scenarios such as cross-border e-commerce and TikTok live streaming; one-on-one technical support and priority customer service provided; pricing can be adjusted flexibly according to configuration |
-## 📊 Performance Testing & Analysis  
-#### 1.Evening Peak Speed Test Performance  
-![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-6798-speed.png?raw=ture)  
-#### 2.Streaming Media Unlocking Report  
-![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-7363-test.png?raw=ture)    
-#### 3.Exit Node Analysis  
-![image](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-8024-analyze.png?raw=ture)
+
+**Advanced Network Infrastructure:** Uses the latest VLESS protocol and enterprise-grade IEPL private network connections, with optimized routes for China Telecom, China Unicom, and China Mobile.
+
+Intelligent load balancing automatically selects suitable network routes according to the user's local internet environment.<br>
+
+**Streaming Platform Unblocking:** All network routes support popular streaming services, including Netflix, Disney+, HBO, and YouTube. The service is designed to maintain stable connections without speed throttling during evening peak hours and supports smooth 4K playback.<br>
+
+**AI and Social Media Access:** Supports AI tools such as ChatGPT and Gemini, as well as international TikTok video streaming and live broadcasting.<br>
+
+**Extensive Global Coverage:** Offers more than 80 nodes in multiple regions, including Hong Kong, Taiwan, Japan, Singapore, the United States, South Korea, Malaysia, Thailand, Indonesia, the Philippines, Vietnam, the United Kingdom, Germany, France, Turkey, Brazil, and Argentina.<br>
+
+**Multi-Platform Compatibility:** Supports iOS, Android, Windows, routers, and simultaneous connections across multiple devices.<br>
+
+**Popular Proxy Clients:** Compatible with Shadowrocket, Clash, v2rayN, v2rayNG, Surge, Quantumult X, Stash, and other popular proxy applications.<br>
+
+**Custom Enterprise Connections:** Provides dedicated network configurations for business users and specialized applications.<br>
+
+**Customer Assistance:** Offers human customer support to help beginners configure and use the service.<br>
+
+**Custom Management Panel:** Features an independently developed management panel designed for simple configuration and convenient operation.<br>
+
+## Subscription Plans
+
+| Plan | Price | Billing / Type | Monthly / Total Traffic | Traffic Policy | Network Bandwidth | Unblocking Support | Concurrent Devices | Node Coverage | Additional Features / Rules |
+|---|---:|---|---|---|---|---|---|---|---|
+| **Starter Annual Plan** | ¥96.00 | Annual | 60 GB/month | All nodes use a 1× traffic multiplier; no evening peak-hour throttling; automatically resets every 30 days | Full IPLC dedicated lines with low latency; peak speed up to 2.5 Gbps per node | Native IPs; supports Netflix, Disney+, ChatGPT, TikTok, etc. | Unlimited simultaneous clients | Hong Kong ×20, Taiwan ×10, Japan ×10, Singapore ×10, USA ×10, South Korea ×2, Argentina ×2, plus Malaysia, Vietnam, the Philippines, Thailand, India, Germany, France, the UK, etc. | Suitable for beginners and light users; approximately ¥8/month when billed annually; responsive customer support |
+| **Extra 150 GB** | ¥25.00 | Monthly | 150 GB/month | All nodes use a 1× traffic multiplier; no evening peak-hour throttling; automatically resets every 30 days | Full IEPL dedicated lines with low latency; peak speed up to 2.5 Gbps per node | Native IPs; supports Netflix, Disney+, ChatGPT, and TikTok | Unlimited simultaneous devices, including computers, smartphones, and routers | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent route selection; 20% OFF annual plans, 30% OFF two-year plans, 40% OFF three-year plans |
+| **Advanced 300 GB** | ¥50.00 | Monthly | 300 GB/month | All nodes use a 1× traffic multiplier; no evening peak-hour throttling; automatically resets every 30 days | Full IEPL dedicated lines with low latency; peak speed up to 2.5 Gbps per node | Native IPs; supports Netflix, Disney+, ChatGPT, and TikTok | Unlimited simultaneous devices, including computers, smartphones, and routers | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent route selection; 20% OFF annual plans, 30% OFF two-year plans, 40% OFF three-year plans |
+| **Flash 500 GB** | ¥70.00 | Monthly | 500 GB/month | All nodes use a 1× traffic multiplier; no evening peak-hour throttling; automatically resets every 30 days | Full IEPL dedicated lines with low latency; peak speed up to 2.5 Gbps per node | Native IPs; supports Netflix, Disney+, ChatGPT, and TikTok | Unlimited simultaneous devices, including computers, smartphones, and routers | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent route selection; 20% OFF annual plans, 30% OFF two-year plans, 40% OFF three-year plans |
+| **Flagship 1 TB** | ¥130.00 | Monthly | 1.0 TB/month | 1000 GB/month of high-speed traffic; all nodes use a 1× multiplier; no evening peak-hour throttling; automatically resets every 30 days | Full IEPL dedicated lines with low latency; peak speed up to 2.5 Gbps per node | Native IPs; supports Netflix, Disney+, ChatGPT, and TikTok | Unlimited simultaneous devices, including computers, smartphones, and routers | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Intelligent route selection; 20% OFF annual plans, 30% OFF two-year plans, 40% OFF three-year plans |
+| **100 GB Non-Expiring** | ¥100.00 | One-time | 100 GB total | All nodes use a 1× multiplier; no evening peak-hour throttling; no automatic traffic reset after purchase | Full IPLC dedicated lines; maximum speed up to 2.5 Gbps | Native IPs; supports major streaming platforms, ChatGPT, and TikTok | Unlimited simultaneous clients | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Manual traffic reset available at 90% of the original price (¥90); annual and other long-term discounts do not apply |
+| **300 GB Non-Expiring** | ¥300.00 | One-time | 300 GB total | All nodes use a 1× multiplier; no evening peak-hour throttling; no automatic traffic reset after purchase | Full IPLC dedicated lines; maximum speed up to 2.5 Gbps | Native IPs; supports major streaming platforms, ChatGPT, and TikTok | Unlimited simultaneous clients | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Manual traffic reset available at 90% of the original price (¥270); annual and other long-term discounts do not apply |
+| **1 TB Non-Expiring** | ¥600.00 | One-time | 1.0 TB total | All nodes use a 1× multiplier; no evening peak-hour throttling; no automatic traffic reset after purchase | Full IPLC dedicated lines; maximum speed up to 2.5 Gbps | Native IPs; supports major streaming platforms, ChatGPT, and TikTok | Unlimited simultaneous clients | Hong Kong ×20, Taiwan ×5, Japan ×10, Singapore ×10, USA ×10, Malaysia ×2, plus the UK, France, Germany, Turkey, Thailand, Brazil, etc. | Manual traffic reset available at 90% of the original price (¥540); annual and other long-term discounts do not apply |
+| **Custom Plan** | ¥680.00 | Monthly | 500 GB | Dedicated nodes deployed according to individual requirements; traffic, bandwidth, and routes can be customized | Full IPLC dedicated access with independently allocated bandwidth, extremely low latency, and high stability | Exclusive native IPs designed for e-commerce, live streaming, and enterprise applications | Unlimited clients and simultaneous multi-device usage | Customized node locations, including Hong Kong, Japan, the United States, Singapore, etc. | Suitable for cross-border e-commerce and TikTok live streaming; one-on-one technical support and priority customer service; actual pricing varies by configuration |
+
+## 📊 Performance Tests and Analysis
+
+#### 1. Evening Peak-Hour Speed Test
+
+![XingDaoMeng Evening Peak-Hour Speed Test](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-6798-speed.png?raw=true)
+
+#### 2. Streaming Platform Unblocking Report
+
+![XingDaoMeng Streaming Unblocking Report](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-7363-test.png?raw=true)
+
+#### 3. Entry and Exit Node Analysis
+
+![XingDaoMeng Entry and Exit Node Analysis](https://github.com/jdnei/xingdaomeng/blob/main/xingdaomeng/MiaoKo-%20.%20.com-8024-analyze.png?raw=true)
