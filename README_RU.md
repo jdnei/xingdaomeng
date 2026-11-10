@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт XingDaoMeng VPN (обновлено 9 ноября 2026)
+# Официальный сайт XingDaoMeng VPN (обновлено 10 ноября 2026)
 
 Официальный сайт XingDaoMeng VPN<br>
 Новый адрес 01: [awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)<br>
